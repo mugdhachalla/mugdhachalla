@@ -1,15 +1,12 @@
 # Mugdha Challa
 
-Computer Science student at CBIT (AI & ML) · Building at the intersection of software and intelligence.
-
-I work across the full stack but I'm most interested in what happens when language models meet real products — retrieval systems, agent workflows, and interfaces that make AI actually useful.
+CSE undergrad @ CBIT specialising in AI/ML. Learning to build at the intersection of software and language models - shipping projects along the way.
 
 ---
 
 ## What I'm building
 
 - **AI Sales Coach** - LLM-powered coaching tool with FAISS-based document retrieval and real-time response generation
-- **GAFS - Growth Amplified, Finance Simplified** - Full-stack finance platform with versioned budgeting workflows, token-based auth, and modular architecture
 ---
 
 ## Stack
