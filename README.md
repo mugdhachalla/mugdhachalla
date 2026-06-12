@@ -36,7 +36,7 @@ I enjoy building products that combine:
 - Automation
 - Data Engineering
 
-Currently focused on:
+Currently focused on learning:
 
 - Retrieval Augmented Generation (RAG)
 - LLM Applications
