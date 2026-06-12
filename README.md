@@ -1,8 +1,10 @@
 <div align="center">
 
-# Mugdha Challa
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1026,50:2563EB,100:22D3EE&text=Mugdha%20Challa&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-### AI/ML Engineer • Full Stack Developer • Builder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI%2FML+Student;Learning+Full+Stack+Development;Building+Cool+Things;" />
+</p>
 
 Building practical AI systems, machine learning applications, automation workflows, and full stack products.
 
@@ -116,7 +118,6 @@ CBIT
 Expected Graduation: 2028
 
 ---
-
 # Beyond Coding
 
 When I'm not coding:
