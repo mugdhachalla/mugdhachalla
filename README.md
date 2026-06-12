@@ -1,52 +1,135 @@
+<div align="center">
+
 # Mugdha Challa
 
-CSE undergrad @ CBIT specialising in AI/ML. Learning to build at the intersection of software and language models - shipping projects along the way.
+### AI/ML Engineer • Full Stack Developer • Builder
+
+Building practical AI systems, machine learning applications, automation workflows, and full stack products.
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mugdhachalla">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mugdhachalla">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mugdhachalla@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## What I'm building
+# About Me
 
-- **AI Sales Coach** - LLM-powered coaching tool with FAISS-based document retrieval and real-time response generation
----
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-## Stack
+I enjoy building products that combine:
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+- Machine Learning
+- Generative AI
+- Full Stack Development
+- Automation
+- Data Engineering
 
-**AI / Data**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+Currently focused on:
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+- Retrieval Augmented Generation (RAG)
+- LLM Applications
+- Machine Learning Systems
+- Backend Development
+- AI Agents & Automation
 
 ---
 
-## Stats
+# Featured Projects
+| Project | Description | Stack |
+|----------|-------------|---------|
+| **Customer Churn Prediction** | End to end ML system predicting telecom customer churn with explainability dashboard and deployment. | Python, Scikit Learn, Streamlit |
+| **AI Sales Coach** | AI powered sales training assistant that conducts mock sales conversations, evaluates responses, provides feedback, and helps improve objection handling skills. | Python, Hugging Face API, NLP |
+| **MovieMatch AI** | Personalized movie recommendation system that suggests movies based on user preferences, genres, ratings, and viewing patterns using machine learning techniques. | Python, Pandas, Scikit Learn, Streamlit |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mugdhachalla&hide_border=true&mode=weekly)
- 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mugdhachalla&theme=default)](https://github.com/mugdhachalla)
+
+# Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ---
 
-## Connect
+# GitHub Stats
 
-[LinkedIn](https://linkedin.com/in/mugdhachalla) · [Email](mailto:mugdhachalla@outlook.com)
+<p align="center">
+
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mugdhachalla&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- React Ecosystem
+- MLOps
+- AI Agents
+- LLM Evaluation
+
+---
+
+# Education
+
+**B.E in CSE - AIML**
+
+CBIT
+
+Expected Graduation: 2028
+
+---
+
+# Beyond Coding
+
+When I'm not coding:
+
+- Learning about startups
+- Exploring AI products
+- Building side projects
+- Reading about technology and entrepreneurship
+
+---
+
+<div align="center">
+
+### Building. Learning. Shipping.
+
+</div>
