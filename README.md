@@ -107,15 +107,6 @@ Currently focused on learning:
 - AI Agents
 - LLM Evaluation
 
----
-
-# Education
-
-**B.E in CSE - AIML**
-
-CBIT
-
-Expected Graduation: 2028
 
 ---
 # Beyond Coding
