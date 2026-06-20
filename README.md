@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI%2FML+Student;Learning+Full+Stack+Development;Building+Cool+Things;" />
 </p>
 
-Building practical AI systems, machine learning applications, automation workflows, and full stack products.
+Building practical AI systems, machine learning applications,and full stack products.
 
 <br>
 
@@ -51,8 +51,7 @@ Currently focused on learning:
 # Featured Projects
 | Project | Description | Stack |
 |----------|-------------|---------|
-| **Customer Churn Prediction** | End to end ML system predicting telecom customer churn with explainability dashboard and deployment. | Python, Scikit Learn, Streamlit |
-| **AI Sales Coach** | AI powered sales training assistant that conducts mock sales conversations, evaluates responses, provides feedback, and helps improve objection handling skills. | Python, Hugging Face API, NLP |
+| **Network Intrusion Detection System** | ML based system classifying network traffic as benign or malicious, achieving 77.3% accuracy and 97% precision through an end-to-end detection pipeline. | Python, Scikit Learn, Pandas, NumPy |
 | **MovieMatch AI** | Personalized movie recommendation system that suggests movies based on user preferences, genres, ratings, and viewing patterns using machine learning techniques. | Python, Pandas, Scikit Learn, Streamlit |
 
 
@@ -96,27 +95,7 @@ Currently focused on learning:
 
 </p>
 
----
 
-# Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning
-- React Ecosystem
-- MLOps
-- AI Agents
-- LLM Evaluation
-
-
----
-# Beyond Coding
-
-When I'm not coding:
-
-- Learning about startups
-- Exploring AI products
-- Building side projects
-- Reading about technology and entrepreneurship
 
 ---
 
