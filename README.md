@@ -36,7 +36,6 @@ I enjoy building products that combine:
 - Generative AI
 - Full Stack Development
 - Automation
-- Data Engineering
 
 Currently focused on learning:
 
@@ -47,13 +46,6 @@ Currently focused on learning:
 - AI Agents & Automation
 
 ---
-
-# Featured Projects
-| Project | Description | Stack |
-|----------|-------------|---------|
-| **Network Intrusion Detection System** | ML based system classifying network traffic as benign or malicious, achieving 77.3% accuracy and 97% precision through an end-to-end detection pipeline. | Python, Scikit Learn, Pandas, NumPy |
-| **MovieMatch AI** | Personalized movie recommendation system that suggests movies based on user preferences, genres, ratings, and viewing patterns using machine learning techniques. | Python, Pandas, Scikit Learn, Streamlit |
-
 
 # Tech Stack
 
