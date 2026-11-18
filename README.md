@@ -37,14 +37,6 @@ I enjoy building products that combine:
 - Full Stack Development
 - Automation
 
-Currently focused on learning:
-
-- Retrieval Augmented Generation (RAG)
-- LLM Applications
-- Machine Learning Systems
-- Backend Development
-- AI Agents & Automation
-
 ---
 
 # Tech Stack
